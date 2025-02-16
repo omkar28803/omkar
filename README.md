@@ -1,2 +1,2 @@
 # omkar
-this is my first  git repository
+This is the repo created for the learing the github and git.
